@@ -9,3 +9,7 @@ Steps:
 3. ???
 
 4. Value
+
+Notes: You can use recognised suffix for voltage and resistor values (kilo as k/K, giga as G, milli as m, micro as u, etc).
+
+Folder "/test" contains testbenches for both SingleNode and metric_conv
